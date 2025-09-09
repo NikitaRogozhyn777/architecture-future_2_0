@@ -15,9 +15,16 @@
 
 # 2. Data Flow diagrams
 
+## DFD Level 0 - Контекстная диаграмма
 ![DFD Level 0 - Контекстная диаграмма](./diagrams/architecture-future_2_0-DFD%20Level%200%20-%20Контекстная%20диаграмма.drawio.png)
+
+## DFD Level 1 - 1.0 Миграция данных из легаси-систем
 ![DFD Level 1 - 1.0 Миграция данных из легаси-систем](./diagrams/architecture-future_2_0-DFD%20Level%201%20-%201.0%20Миграция%20данных%20из%20легаси-систем.drawio.png)
+
+## DFD Level 1 - 2.0 Получение данных с фарм. компаний
 ![DFD Level 1 - 2.0 Получение данных с фарм. компаний](./diagrams/architecture-future_2_0-DFD%20Level%201%20-%202.0%20Получение%20данных%20с%20фарм.%20компаний.drawio.png)
+
+## DFD Level 1 - 3.0 Поисковой запрос
 ![DFD Level 1 - 3.0 Поисковой запрос](./diagrams/architecture-future_2_0-DFD%20Level%201%20-%203.0%20Поисковой%20запрос.drawio.png)
 
 
